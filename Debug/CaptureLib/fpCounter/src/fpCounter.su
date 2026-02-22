@@ -1,0 +1,2 @@
+../CaptureLib/fpCounter/src/fpCounter.c:15:6:fpCounter_p_init	16	static
+../CaptureLib/fpCounter/src/fpCounter.c:48:6:fpCounter_p_get	24	static

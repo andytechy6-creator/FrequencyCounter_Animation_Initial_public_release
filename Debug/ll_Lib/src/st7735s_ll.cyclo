@@ -1,0 +1,16 @@
+../ll_Lib/src/st7735s_ll.c:81:13:ST7735_WriteSPI	5
+../ll_Lib/src/st7735s_ll.c:104:6:ST7735_SetAddrWindow	13
+../ll_Lib/src/st7735s_ll.c:226:6:ST7735_SetRotation	7
+../ll_Lib/src/st7735s_ll.c:271:6:ST7735_FillScreen	4
+../ll_Lib/src/st7735s_ll.c:210:6:ST7735_Init	76
+../ll_Lib/src/st7735s_ll.c:296:6:ST7735_DrawPixel	7
+../ll_Lib/src/st7735s_ll.c:309:6:ST7735_DrawLine	12
+../ll_Lib/src/st7735s_ll.c:338:6:ST7735_DrawFastHLine	11
+../ll_Lib/src/st7735s_ll.c:386:6:ST7735_FillRect	14
+../ll_Lib/src/st7735s_ll.c:410:6:ST7735_DrawRGBBitmap	5
+../ll_Lib/src/st7735s_ll.c:507:6:ST7735_DrawBitmapMonoBG	6
+../ll_Lib/src/st7735s_ll.c:581:6:ST7735_DrawBitmapMonoTransparent	12
+../ll_Lib/src/st7735s_ll.c:619:6:DrawChar_GFX	15
+../ll_Lib/src/st7735s_ll.c:651:6:DrawString_GFX	5
+../ll_Lib/src/st7735s_ll.c:672:6:ST7735_DrawString	22
+../ll_Lib/src/st7735s_ll.c:730:6:ST7735_WriteDataDMA	7
