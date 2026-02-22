@@ -820,7 +820,7 @@ void Stairman_Update(uint32_t tick)
         {
         	DrawString_GFX(0, 42, "Need STM32 ", &FreeSans8pt7b, ST7735_WHITE, ST7735_BLACK);
         	DrawString_GFX(0, 60, "help?", &FreeSans8pt7b, ST7735_WHITE, ST7735_BLACK);
-        	DrawString_GFX(0, 80, "Hire me.", &FreeSans8pt7b, ST7735_WHITE, ST7735_BLACK);
+        	DrawString_GFX(0, 78, "Hire me.", &FreeSans8pt7b, ST7735_WHITE, ST7735_BLACK);
 
         	anim_y = 36;
         	anim_x = 112;
@@ -834,7 +834,7 @@ void Stairman_Update(uint32_t tick)
         		// wipe all 3 lines
         		ST7735_FillRect(0, 42 - 12, 160, 16, ST7735_BLACK); // line 1
         		ST7735_FillRect(0, 60 - 12, 160, 16, ST7735_BLACK); // line 2
-        		ST7735_FillRect(0, 80 - 12, 160, 16, ST7735_BLACK); // line 3
+        		ST7735_FillRect(0, 78 - 12, 160, 16, ST7735_BLACK); // line 3
         	}
         	frame++;
 
